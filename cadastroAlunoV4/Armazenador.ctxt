@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Armazenador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CadastroAluno\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=qtde
+comment1.target=Armazenador(int)
+comment2.params=a\ qtde
+comment2.target=boolean\ inserir(Aluno,\ int)
+comment2.text=\r\n\ inserir\ -\ insere\ um\ aluno\ na\ estrutura\ de\ dados\r\n\r\n\ @param\ \ a\ -\ objeto\ aluno\ a\ ser\ inserido\ no\ armazenador\r\n\ @return\ boolean\ \ true\ -\ com\ sucesso,\ false\ -\ falha\ na\ inser\u00E7\u00E3o\r\n
+comment3.params=ra\ qtde
+comment3.target=boolean\ remover(java.lang.String,\ int)
+comment3.text=\r\n\ remover\ -\ insere\ um\ aluno\ na\ estrutura\ de\ dados\r\n\r\n\ @param\ \ ra\ -\ String\ representando\ o\ ra\ do\ aluno\r\n\ @return\ boolean\ \ true\ -\ com\ sucesso,\ false\ -\ falha\ na\ remo\u00E7\u00E3o\r\n
+comment4.params=pos
+comment4.target=Aluno\ getAluno(int)
+numComments=5

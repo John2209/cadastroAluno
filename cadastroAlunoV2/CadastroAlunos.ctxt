@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CadastroAlunos
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CadastroAlunos\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=qtde
+comment1.target=CadastroAlunos(int)
+comment2.params=qtde
+comment2.target=void\ inserirAluno(int)
+comment3.params=qtde
+comment3.target=void\ removerAluno(int)
+comment4.params=qtde
+comment4.target=void\ listarAluno(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Retorna\ os\ atributos\ como\ string\r\n
+numComments=6
